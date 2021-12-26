@@ -1,5 +1,5 @@
 # projetos-python
-8 Projetos em python
+Projetos em python
 
 Aqui postarei os meus projetos desenvolvidos em Python para registrar e guardar a minha trilha de aprendizagem e desenvolvimento.
 
