@@ -1,0 +1,1 @@
+A calculadora tem as funções matemáticas basicas (adição, subtração, multiplicação e divisão), o desenvolvimento foi realizado utilizando somente o TkInter no Python.
